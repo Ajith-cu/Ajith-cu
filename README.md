@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** based in **Thrissur, Kerala, India** 🇮🇳, working at **Coding Hands**.
+I'm a passionate **Full Stack Developer** based in **Thrissur, Kerala, India** 🇮🇳.
 
 - 🔭 Currently building exciting web applications
 - 🌱 Constantly learning and exploring new technologies
